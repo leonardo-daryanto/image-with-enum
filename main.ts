@@ -1,5 +1,5 @@
 enum Images {
-    //% block="snake"
+    //% block="Snake"
     One,
     //% block="Check"
     Two,
